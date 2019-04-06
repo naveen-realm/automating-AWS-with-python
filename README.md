@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Automating AWS with Python
+Repository for the project *Automating AWS with Python*
